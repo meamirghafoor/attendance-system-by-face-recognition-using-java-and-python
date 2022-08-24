@@ -1,15 +1,18 @@
 # Attendance system by face recognition using java and python
 Attendance system by face recognition using language java  for front end and python for face recognition.
 # Languages 
-Python
-Java
-<br>
-SQL
+<ul>
+  <li>Python</li>
+  <li>Java</li>
+  <li>SQL</li>
+</ul>
 # Tool | Compiler
-Netbean
-<br>
-Pycharm
+<ul>
+  <li>Pycharm</li>
+  <li>Netbeans</li>
+</ul>
 # Users
-Admin
-<br>
-Teacher
+<ul>
+  <li>Admin</li>
+  <li>Teacher</li>
+</ul>
