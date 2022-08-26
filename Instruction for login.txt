@@ -1,0 +1,17 @@
+admin password
+username: admin
+password: admin123
+
+Teacher password
+username: teacher id
+password: riphah+teacher id
+
+here teacher password as:
+riphah+teacher id
+main type riphah then type teacher id without space like "riphah101"
+
+Some features are incomplete but most is completed.
+Best Regrads
+Amir Ghafoor
+mreamirghafoor@gmail.com
+
