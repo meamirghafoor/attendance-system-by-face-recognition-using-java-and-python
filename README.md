@@ -12,9 +12,9 @@
 1. Admin
 2. Teacher
 ## The important steps to achieve like this project 
-1. You should  install visual studio 2019 for c++ compiler because Dlib library is fully developed by c++
+1. You should  install visual studio 2019 or above version for c++ compiler because Dlib library is fully developed by c++
 2. Dlib:is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems.
-3. Desktop development with c++ dependncies like in the bottom image (you will find like this image when you want to install visual studio 2019)
+3. Desktop development with c++ dependncies like in the bottom image (you will find like this image when you want to install visual studio 2019 or above version)
 ![desktop_development](https://user-images.githubusercontent.com/77319741/186828860-8fa6b976-7f70-449e-912b-b7a7a488b5ca.png)
 
 ## Need to install all these libraries for python3
